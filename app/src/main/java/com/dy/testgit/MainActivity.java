@@ -17,7 +17,9 @@ public class MainActivity extends AppCompatActivity {
         //我在本地修改内容，新增一条注释
 
         //我在服务端修改内容，新增一条注释
-        
+
+        //第二次在本地修改内容，用rebase，不用merge
+
         //第二次在服务端修改内容，这次用rebase
     }
 }
